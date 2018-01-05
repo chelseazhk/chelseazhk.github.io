@@ -23,12 +23,12 @@ highlighter: rouge
 excerpt_separator: "\n\n\n"
 
 # Setup
-title:               我
+title:               张怀康
 name:                example
-namecn:              我
+namecn:              张怀康
 tagline:             '的博客'
-description:         "我的博客"
-url:                 https://example.github.io
+description:         "张怀康的博客"
+url:                 https://chelseazhk.github.io
 baseurl:             ''
 gems:
   - jekyll-feed
@@ -36,9 +36,9 @@ gems:
 
 # About/contact
 author:
-  name:              example
-  url:               https://example.github.io
-  email:             example@example.com
+  name:              chelseazhk
+  url:               https://chelseazhk.github.io
+  email:             chelseazhk@chelseazhk.com
 
 sass:
   style: compressed
